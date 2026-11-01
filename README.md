@@ -12,4 +12,4 @@ Verify a download:
 cd ~/Downloads && shasum -a 256 -c Peekaboo-*.dmg.sha256
 ```
 
-Found a bug? [Open an issue](https://github.com/vishvavariya/peekaboo-releases/issues/new) or use Help ▸ Report a Problem in the app.
+Found a bug? [Open an issue](https://github.com/vishvavariya/peekaboo-feedback/issues/new) or use Help ▸ Report a Problem in the app.
